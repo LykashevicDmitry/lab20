@@ -1,0 +1,48 @@
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\bin\Debug\net5.0\ЛР20.exe
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\bin\Debug\net5.0\ЛР20.deps.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\bin\Debug\net5.0\ЛР20.runtimeconfig.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\bin\Debug\net5.0\ЛР20.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\bin\Debug\net5.0\ЛР20.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\bin\Debug\net5.0\ref\ЛР20.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\bin\Debug\net5.0\ЛР20.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\obj\Debug\net5.0\ЛР20.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\obj\Debug\net5.0\ЛР20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\obj\Debug\net5.0\ЛР20.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\obj\Debug\net5.0\ЛР20.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\obj\Debug\net5.0\ЛР20.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\obj\Debug\net5.0\ЛР20.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\obj\Debug\net5.0\ref\ЛР20.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\obj\Debug\net5.0\ЛР20.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20\obj\Debug\net5.0\ЛР20.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\bin\Debug\net5.0\ЛР20.exe
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\bin\Debug\net5.0\ЛР20.deps.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\bin\Debug\net5.0\ЛР20.runtimeconfig.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\bin\Debug\net5.0\ЛР20.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\bin\Debug\net5.0\ЛР20.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\bin\Debug\net5.0\ref\ЛР20.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\bin\Debug\net5.0\ЛР20.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\obj\Debug\net5.0\ref\ЛР20.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.genruntimeconfig.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\bin\Debug\net5.0\ЛР20.exe
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\bin\Debug\net5.0\ЛР20.deps.json
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\bin\Debug\net5.0\ЛР20.runtimeconfig.json
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\bin\Debug\net5.0\ЛР20.runtimeconfig.dev.json
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\bin\Debug\net5.0\ЛР20.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\bin\Debug\net5.0\ref\ЛР20.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\bin\Debug\net5.0\ЛР20.pdb
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.csprojAssemblyReference.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.AssemblyInfoInputs.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.AssemblyInfo.cs
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.csproj.CoreCompileInputs.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\obj\Debug\net5.0\ref\ЛР20.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.pdb
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР20 +\obj\Debug\net5.0\ЛР20.genruntimeconfig.cache
